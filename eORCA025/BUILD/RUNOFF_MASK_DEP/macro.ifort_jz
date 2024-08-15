@@ -1,2 +1,0 @@
-FC = ifort
-FFLAGS = -O2  -lnetcdf -lnetcdff

@@ -1,11 +1,11 @@
 # simu-imhotep
 
-This is where you will find the technical information about the IMHOTEP simulation used in 
+This is where you will find the technical information about the IMHOTEP simulations used in 
 Tajouri et Al (2024) paper. 
 
 ## Organisation
 
-eORCA025 directory hold the 4 simulation used in the paper :
+eORCA025 directory hold the 4 simulations used in the paper :
 
   * eORCA025-IMHOTEP.SPINUP  : the spinup simulation
   * eORCA025-IMHOREP.exp1    : Simulation where all inland freshwater fluxes are interannual

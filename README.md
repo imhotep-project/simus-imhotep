@@ -25,3 +25,8 @@ For each configuration, in the CODE subdirectory,  only the fortran modules diff
 
 For each configuration, in the CTL subdirectory, NEMO namelists (ice and ocean) are provided, together with the xml files used to control
 the XIOS server coupled with NEMO.
+
+
+## Reference :
+
+Tajouri S., W.Llowel, F. Sevellec, J.M. Molines, P. Mathiot, T. Penduff, S. Leroux (2024) : Simulated Impact of Time-varying River Runoff and Greenland Freshwater Discharge on Sea Level Variability in the Beaufort Gyre Over 2005-2018. *Journal of Geophysical Research* ,  Accepted Aug. 2024
